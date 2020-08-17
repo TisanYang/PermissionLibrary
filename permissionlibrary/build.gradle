@@ -1,4 +1,6 @@
 apply plugin: 'com.android.library'
+apply plugin: 'com.github.dcendents.android-maven'
+group='com.github.TisanYang'//com.github.{你的的账号名}
 
 android {
     compileSdkVersion 29
